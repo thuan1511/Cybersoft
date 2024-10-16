@@ -3,6 +3,9 @@ import java.util.Scanner;
 
 public class main {
 	public static void main(String[] args) {
+		
+		// Viết chương trình tính chiều dài cạnh huyền của một tam giác vuông khi biết 2 cạnh góc vuông.
+		
 		Scanner scanner = new Scanner(System.in);
 
         // Nhập chiều dài 2 cạnh góc vuông
